@@ -1,7 +1,5 @@
 
-// JavaScript Snake example
-// Author Jan Bodnar
-// http://zetcode.com/javascript/snake/
+//kuldeep
 
 var canvas;
 var ctx;
@@ -56,7 +54,7 @@ function loadImages() {
     ball.src = 'dot.png'; 
     
     apple = new Image();
-    apple.src = 'Apple.png'; 
+    apple.src = 'apple.png'; 
 }
 
 function createSnake() {
