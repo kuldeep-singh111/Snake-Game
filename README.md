@@ -1,2 +1,2 @@
 # Snake-Game
-It is used to build snake game!
+deployed - https://kuldeep-singh111.github.io/Snake-Game/
